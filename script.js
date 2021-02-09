@@ -17,7 +17,7 @@ const types = [
     'ice'
 ];
 
-const POKEMON_COUNT = 20;
+const POKEMON_COUNT = 50;
 
 const cards = document.querySelector('.cards');
 
